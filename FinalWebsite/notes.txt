@@ -1,0 +1,37 @@
+4 pages
+
+Index - My running page
+	1. Index
+	2. Races/Medals
+	3. Supplies
+	4. Resources
+	
+Races/Medals/Locations/Future
+
+Supplies
+
+Resources
+Find Races: http://www.runningintheusa.com/Default.aspx
+National Park Races: http://vacationraces.com/
+Running news and information: http://www.runnersworld.com/
+Buy running gear: http://www.runnersforum.com/index.php
+Local Running group: http://www.indyrunners.org/
+
+
+
+
+
+
+-top
+Logo
+menu bar
+
+-left text box
+main text
+
+- right text box
+images
+
+-bottom
+copyright stuff
+

@@ -1,0 +1,110 @@
+html {
+	background: #F0F0F0 ;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #F0F0F0 ;
+	margin: 0;
+	padding: 0;
+}
+
+
+.main {
+	font-family: monospace;
+	width: 800px;
+	background-color: #D1D4D4;
+	margin-right: 200px;
+}
+#hdr {
+	background-color: #D1D4D4;
+	border: 2px solid #000000;
+	display: block;
+	height: 200px;
+}
+
+.logo {
+	position: absolute;
+	left: 300px;
+	top: 0px;
+	height: 90px;
+	width: 306px;
+}
+nav {
+	position: relative;
+	top: 75px;
+	clear: both;
+	display: block;
+	color: black;
+	height: 60px;
+}
+
+nav ul {
+	background-color: #44887B;
+}
+
+nav li {
+	display: inline;
+	padding: 5px 5px 5px 5px;
+	border: 2px solid #000000;
+	background-color: #8FDBF1;
+}
+
+nav li a:hover {
+	color: white;
+	background-color: #000000;
+}
+
+
+section {
+	display:inline;
+	width: 600px;
+	padding: 0px 0px 0px 0px;
+}
+
+#content {
+
+	width: 800px;
+
+}
+
+
+.stories {
+	float: left;
+	width: 600px;
+	font-family: Arial;
+
+}
+
+.upcoming {
+	float: right;
+	width: 200px;
+	background-color: #F0F0F0;
+	
+}
+
+
+.runmap {
+	position: relative;
+	left: 250px;
+	width: 50%;
+}
+
+.runstuff {
+	width: 75%;
+}
+
+figcaption {
+	font-size: small;
+	font-style: italic;
+}
+footer {
+	clear: both;
+	background-color: #D1D4D4;
+	display: block;
+	border-style: double none none none;
+	height: 50px;
+	font-family: monospace;
+
+}
